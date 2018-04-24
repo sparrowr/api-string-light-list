@@ -25,19 +25,18 @@ on google drive: https://docs.google.com/drawings/d/1NEwcY9YQBa9hIiN36qq43ni9XK2
 
 I'm going to make a task tracking app. Google Sheets presentation [here](https://docs.google.com/presentation/d/1ous0t4LIjgonQzyA8oxDlR5jNTRDuG98-x-glByuxvM/edit?usp=sharing).
 
-(Reminder: Use two tildes to ~~strike-through~~ with markdown.)
-
 Current roadmap:
-0. Customize template projects and upload to Github.
-1. deploy API template w/ github and heroku.
-2. ensure logging into the API works w/ curl.
-3. deploy simple front-end client to github pages.
-4. ensure logging into the API works via the FE (front end).
-5. update API to handle task CRUD (creation, reading, updating, destroying).
-6. ensure task CRUD works via curl.
-7. update FE to support task CRUD.
-8. verify minimum project requirements met.
-9. update roadmap for non-minimum requirements.
+1. ~~Customize template projects and upload to Github.(April 23)~~
+1. ~~deploy API template w/ github and heroku.(April 23)~~
+1. ~~ensure logging into the API works w/ curl.(April 23)~~
+1. ~~deploy simple front-end client to github pages.(April 23).~~
+1. ~~ensure logging into the API works via the FE (front end).(April 24)~~
+1. ~~update API to handle task CRUD (creation, reading, updating, destroying).(April 24)~~
+1. ensure task CRUD works via curl.
+1. update FE to support task CRUD.
+1. verify minimum project requirements met.
+1. update roadmap for non-minimum requirements.
+1. improve FE UI so nav bars exist.
 
 ## Resources and Credits
 
