@@ -32,11 +32,14 @@ Current roadmap:
 1. ~~deploy simple front-end client to github pages.(April 23).~~
 1. ~~ensure logging into the API works via the FE (front end).(April 24)~~
 1. ~~update API to handle task CRUD (creation, reading, updating, destroying).(April 24)~~
-1. ensure task CRUD works via curl.
-1. update FE to support task CRUD.
+1. ~~ensure task CRUD works via curl.(April 25)~~
+1. update FE to support task CRUD locally.
+1. update deployed API to handle task CRUD.
+1. update deployed FE to handle task CRUD.
 1. verify minimum project requirements met.
 1. update roadmap for non-minimum requirements.
 1. improve FE UI so nav bars exist.
+1. update this README to include nice API chart
 
 ## Resources and Credits
 

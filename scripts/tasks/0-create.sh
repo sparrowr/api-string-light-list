@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# text, condition, user-id
+# text, condition, user_id
 curl "http://localhost:4741/tasks" \
   --include \
   --request POST \
@@ -8,8 +8,9 @@ curl "http://localhost:4741/tasks" \
   --header "Content-Type: application/json" \
   --data '{
     "task": {
-      "old": "'"${OLDPW}"'",
-      "new": "'"${NEWPW}"'"
+      "text": "'"${TEXT}"'",
+      "condition": "'"${CONDITION}"'",
+      "user_id": 2
     }
   }'
 
