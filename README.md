@@ -33,13 +33,20 @@ Current roadmap:
 1. ~~ensure logging into the API works via the FE (front end).(April 24)~~
 1. ~~update API to handle task CRUD (creation, reading, updating, destroying).(April 24)~~
 1. ~~ensure task CRUD works via curl.(April 25)~~
-1. update FE to support task CRUD locally.
+1. ~~update FE to support task creation locally.(April 25)~~
+1. ~~update FE to support task read/display locally.(April 26)~~
+1. ~~update FE to support marking tasks complete locally, including after some elements have been removed from the list.(April 26)~~
+1. update FE to support updating tasks.
+1. update FE to display completed tasks & allow them to be deleted.
 1. update deployed API to handle task CRUD.
 1. update deployed FE to handle task CRUD.
 1. verify minimum project requirements met.
-1. update roadmap for non-minimum requirements.
+1. update roadmap for non-minimum requirements: organize and prioritize the next list.
+
+post-mvp:
 1. improve FE UI so nav bars exist.
 1. update this README to include nice API chart
+1. update FE javascript to interact with the DOM through jQuery consistently
 
 ## Resources and Credits
 
